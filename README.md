@@ -35,6 +35,20 @@ Tier 4 — Full quantum sandbox: place atoms, watch molecules form. H + O + O �
 Tell me what's wrong. Tell me what's missing. Tell me if something made you feel something.
 This exists because I believe visual learning is underserved in science education — and because I think there are people who couldn't learn from a textbook who could learn from this.
 
+## Part of the Sandbox Series
+Quantum Sandbox is part of a growing series of interactive
+science visualizations designed to make complex systems
+feel real and explorable. Each sandbox builds on the last.
+
+- [Quantum Sandbox](https://silent-pfil.github.io/Quantum-Sandbox/) live
+- [DNA Sandbox](https://silent-pfil.github.io/DNA-Sandbox/) — live
+- [EMS Sandbox](https://silent-pfil.github.io/EMS-Sandbox/) — live
+- [Cellular Sandbox](https://silent-pfil.github.io/Cell-Sandbox/) — live
+- [Emergence Sandbox](https://silent-pfil.github.io/Emergence-Sandbox/) — live
+- Neural Transmission Sandbox — in development
+- Newtonian Sandbox — "Universe Sandbox"
+- Einsteinian Sandbox — in development
+
 Built with Three.js. Assisted by Claude (Anthropic). All physics data sourced from the Particle Data Group.
 
 — pfil
