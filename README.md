@@ -45,9 +45,9 @@ feel real and explorable. Each sandbox builds on the last.
 - [EMS Sandbox](https://silent-pfil.github.io/EMS-Sandbox/) — live
 - [Cellular Sandbox](https://silent-pfil.github.io/Cell-Sandbox/) — live
 - [Emergence Sandbox](https://silent-pfil.github.io/Emergence-Sandbox/) — live
-- Neural Transmission Sandbox — in development
-- Newtonian Sandbox — "Universe Sandbox"
-- Einsteinian Sandbox — in development
+- [Neural Transmission Sandbox](https://silent-pfil.github.io/Neural-Sandbox/) — live
+- Newtonian Sandbox - "Universe Sandbox"
+- [Einsteinian Sandbox](https://silent-pfil.github.io/Einsteinian-Sandbox/) — live
 
 Built with Three.js. Assisted by Claude (Anthropic). All physics data sourced from the Particle Data Group.
 
