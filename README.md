@@ -52,3 +52,7 @@ feel real and explorable. Each sandbox builds on the last.
 Built with Three.js. Assisted by Claude (Anthropic). All physics data sourced from the Particle Data Group.
 
 — pfil
+
+## License
+No License - free to use, share with others and think.
+
